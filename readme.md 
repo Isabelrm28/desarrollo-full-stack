@@ -1,0 +1,35 @@
+# Título Principal
+## Subtítulo
+### Sub-subtítulo
+
+Este es un **texto en negrita**, y este es un _texto en cursiva_. También puedes combinarlos: **_negrita y cursiva_**.
+
+Puedes crear listas de elementos:
+
+1. Primer elemento
+2. Segundo elemento
+   - Sub-elemento
+   - Otro sub-elemento
+
+O listas sin orden:
+
+- Elemento sin orden 1
+- Elemento sin orden 2
+  - Sub-elemento
+
+Enlaces:  
+[Visita Google](https://www.google.com)
+
+Imágenes:  
+![Logo de Markdown](https://markdown-here.com/img/icon256.png)
+
+También puedes añadir citas:
+
+> Esta es una cita.
+
+Y bloques de código:
+
+```python
+# Este es un bloque de código en Python
+print("¡Hola, Markdown!")
+
